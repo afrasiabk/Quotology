@@ -1,6 +1,6 @@
 # Quotology
 Quotology Android CRUD App.
-Native Android App Developmed in Java and Android Studio.
+Native Android App Developed in Java and Android Studio.
 Connects Firebase with Android application.
 Create, Read, Update and Delete in Firebase Realtime Database.
 Tutorial: https://youtu.be/Eg2aGWblQvk
